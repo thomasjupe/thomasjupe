@@ -14,7 +14,7 @@
    I’m passionate about creating scalable solutions, whether in buildings or in code.
 
 - 🎯 **Current Focus**:  
-   - **Development**: Sharpening my skills in JavaScript, Reactn and Node.js to build dynamic BMS applications.
+   **Development**: Working towards my Oracle Java Explorer to allow me to continue to build dynamic BMS applications.
 
 - 📚 **Lifelong Learner** | Always hungry for knowledge.  
    I’m constantly exploring new technologies and taking on personal projects to challenge myself.
