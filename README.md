@@ -25,9 +25,9 @@
 - 🤝 **Let’s Connect**:  
    Whether you want to discuss BMS, headend development, pass on advice or show off the latest innovative tech, feel free to reach out!
 
-
 <p align="center">
-<a href="https://linkedin.com/in/thomasjupe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomasjupe" height="30" width="40" /></a>
+  <a href="https://github.com/thomasjupe"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/thomasjupe/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
