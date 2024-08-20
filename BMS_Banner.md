@@ -43,10 +43,10 @@
     <img src="https://github.com/thomasjupe/thomasjupe/blob/main/icons/trend.svg" alt="Trend" style="height: 50px; width: auto; max-width: 100px; display: block; margin: auto;">
   </a>
   <a href="https://ismacontrolli.com/" style="display: inline-block;">
-    <img src="https://github.com/thomasjupe/thomasjupe/blob/main/icons/intelligent-solution-managing-automation-isma-logo.svg" alt="iSMA" style="height: 100px; width: auto; max-width: 100px; display: block; margin: auto;">
+    <img src="https://github.com/thomasjupe/thomasjupe/blob/main/icons/intelligent-solution-managing-automation-isma-logo.svg" alt="iSMA" style="height: 50px; width: auto; max-width: 200px; display: block; margin: auto;">
   </a>
   <a href="https://www.distech-controls.com/" style="display: inline-block;">
-    <img src="https://github.com/thomasjupe/thomasjupe/blob/main/icons/distech-controls.svg" alt="Distech" style="height: 100px; width: auto; max-width: 100px; display: block; margin: auto;">
+    <img src="https://github.com/thomasjupe/thomasjupe/blob/main/icons/distech-controls.svg" alt="Distech" style="height: 50px; width: auto; max-width: 200px; display: block; margin: auto;">
   </a>  
   <a href="https://buildings.honeywell.com/" style="display: inline-block;">
     <img src="https://github.com/thomasjupe/thomasjupe/blob/main/icons/honeywell-logo.svg" alt="Honeywell-Automated-Buildings" style="height: 50px; width: auto; max-width: 50px; display: block; margin: auto;">
