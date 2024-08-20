@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Tom</h1>
-<h3 align="center">A BMS Engineer from the UK!</h3>
+<h3 align="center">A BMS Engineer from the UK, constantly learning and experimenting!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thomasjupe&label=Profile%20views&color=0e75b6&style=flat" alt="thomasjupe" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomasjupe" alt="thomasjupe" /></a> </p>
 
-- 🔭 I’m currently working on **Niagara N4**
+-  I’m currently working on **Tridium Niagara Framework Projects**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently **Java**
 
 - 💬 Ask me about **Niagara Framework**
 
