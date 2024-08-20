@@ -3,13 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thomasjupe&label=Profile%20views&color=0e75b6&style=flat" alt="thomasjupe" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomasjupe" alt="thomasjupe" /></a> </p>
+<p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomasjupe" alt="thomasjupe" /></a> </p>
 
--  I’m currently working on **Tridium Niagara Framework Projects**
+### 👋 Hi, I'm Thomas Jupe
 
-- 🌱 I’m currently **Java**
+- 🌐 **Full-Stack Developer** | Passionate about building scalable and efficient web applications.
+- 🚀 **Tech Enthusiast** | Exploring the latest in web development, cloud computing, and DevOps.
+- 💼 **Current Focus**: Enhancing my skills in JavaScript, React, Node.js, and Kubernetes.
+- 📚 **Always Learning**: Continuously expanding my knowledge base and working on personal projects.
+- 🔧 **Projects**: [Check out my repositories](https://github.com/thomasjupe?tab=repositories) to see what I’m working on!
+- 💬 **Let’s Connect**: Feel free to reach out for collaborations or just to chat about tech!
 
-- 💬 Ask me about **Niagara Framework**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
