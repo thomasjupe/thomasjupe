@@ -4,7 +4,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomasjupe" alt="thomasjupe" /></a> </p>
 
-### 👋 Hi, I'm Thomas Jupe
+
+<h2 align="center">   </h2></p>
 
 
 - ⚙️ **BMS Engineer by Day, Aspiring Full-Stack Developer by Night**  
